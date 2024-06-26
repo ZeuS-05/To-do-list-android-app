@@ -23,7 +23,7 @@ import androidx.core.view.WindowInsetsCompat;
 import java.util.ArrayList;
 import java.util.HashSet;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity{
 
     // we need to stored the to do list items in the array list
     // because we don't know how many task list item the user can add
