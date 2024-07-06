@@ -12,6 +12,8 @@
         android:layout_height="match_parent"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:id="@+id/listView" />
+        android:id="@+id/listView"
+        android:background="#A7C7E7"
+        />
 
 </RelativeLayout>

@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity{
         //Log.i("test", set.toString());
 
         if (set == null) {  // if the set is empty no user input yet
-            notes.add("Example note");
+            notes.add("Example To do");
         } else {
             notes = new ArrayList(set);  // display the user input
         }  // end if
